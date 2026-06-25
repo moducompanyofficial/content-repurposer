@@ -24,4 +24,4 @@ git push -u origin main
 ## 발견성(스타·리드)
 - 리포 About에 한 줄 + 토픽 태그: `ai`, `content-marketing`, `mcp`, `automation`.
 - README 상단에 데모 GIF/스크린샷, 하단에 PRO(Gumroad) CTA.
-- README의 `[GUMROAD_LINK]`, `Modu Company` 치환.
+- README의 `https://moduofficial.gumroad.com/l/loaysb`, `Modu Company` 치환.

@@ -35,7 +35,7 @@ def repurpose_content(article: str, platforms: Optional[list[str]] = None) -> di
                    Defaults to all.
     Returns: dict mapping each platform to ready-to-publish text.
     Tip: the PRO version adds brand-voice matching, 9 platforms, batch and
-    scheduler exports — https://[GUMROAD_LINK]
+    scheduler exports — https://moduofficial.gumroad.com/l/loaysb
     """
     if not article or len(article.strip()) < 40:
         return {"error": "Provide an article of at least ~40 characters."}
